@@ -53,13 +53,13 @@ This query helps us understand:
 
 ## 📂 Project Structure
 
-```
+`````plain text
 📁 sales_summary/
 ├── sales_data.db             # SQLite database with sample sales
 ├── sales_summary.ipynb       # Jupyter Notebook with code
 ├── sales_chart.png           # Bar chart image (auto-saved)
 └── README.md                 # This file
-
+`````
 
 ---
 
@@ -68,9 +68,10 @@ This query helps us understand:
 1. Make sure you have Python and Jupyter installed
 2. Install required libraries (if not already):
 
-   ```bash
+```bash
    pip install pandas matplotlib
-   ```
+```
+
 3. Open `sales_summary.ipynb` and run all cells
 4. View the chart and printed results
 
