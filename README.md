@@ -1,4 +1,37 @@
+<!-- ===================== ARCHIVED NOTICE ===================== -->
 
+# ⚠️ ARCHIVED REPOSITORY
+
+> <img src="https://img.shields.io/badge/Status-Archived-lightgrey?style=for-the-badge" />
+>
+> **This repository is archived and no longer actively maintained.**  
+>
+> The work originally contained here has been **migrated, refactored, and
+> enhanced** as part of a **unified, industry-aligned Data Analyst Internship
+> repository**.
+>
+> <p align="left">
+>   <a href="https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-07_Basic-Sales-Summary-SQLite-Python">
+>     <img src="https://img.shields.io/badge/View%20Active%20Task-Task%2007%20(Basic%20Sales%20Summary)-0078D4?style=for-the-badge" />
+>   </a>
+> </p>
+>
+> ### ➡️ Active, maintained version
+>
+> https://github.com/atharmshaikh/data-analyst-internship-tasks/tree/main/Task-07_Basic-Sales-Summary-SQLite-Python
+>
+> ---
+>
+> ### Why this repository was archived
+>
+> - This repository represented an **early, standalone implementation**
+> - The task has since been **restructured to industry standards**
+> - Documentation, folder structure, and version control practices were improved
+> - All future updates will occur **only in the unified internship repository**
+>
+> This archived repository is preserved **for historical reference only**.
+
+<!-- =========================================================== -->
 
 # 🧾 Task 7: Basic Sales Summary using SQLite & Python
 
